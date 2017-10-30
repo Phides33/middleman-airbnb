@@ -1,0 +1,8 @@
+- name: Berlin
+  baseline: "Ich bin ein Berliner"
+- name: Shanghai
+  baseline: "Smashing to be close to the Bund"
+- name: Paris
+  baseline: "The city of lights"
+- name: Bordeaux
+  baseline: "Very cool city, the best"
